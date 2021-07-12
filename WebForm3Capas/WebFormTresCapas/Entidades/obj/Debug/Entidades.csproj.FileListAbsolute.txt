@@ -1,0 +1,6 @@
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Introducción.NET\WebForm3Capas\WebFormTresCapas\Entidades\bin\Debug\Entidades.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Introducción.NET\WebForm3Capas\WebFormTresCapas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Introducción.NET\WebForm3Capas\WebFormTresCapas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Introducción.NET\WebForm3Capas\WebFormTresCapas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Introducción.NET\WebForm3Capas\WebFormTresCapas\Entidades\obj\Debug\Entidades.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\Introducción.NET\WebForm3Capas\WebFormTresCapas\Entidades\obj\Debug\Entidades.pdb
